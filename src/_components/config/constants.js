@@ -1,0 +1,3 @@
+export const SERVICE_NAMES = {
+  GITHUB_SERVICE: "GITHUB_SERVICE"
+};
