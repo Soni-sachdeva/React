@@ -17,7 +17,7 @@ const MyProfile = props => {
       <Card
         title="Github profile:"
         hoverable
-        style={{ width: "30rem", height: "80vh" }}
+        style={{ width: "30rem", minHeight: "80vh" }}
       >
         <Row
           type="flex"

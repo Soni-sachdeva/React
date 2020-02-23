@@ -8,7 +8,7 @@ export const Logout = () => {
       <Card
         title="Logout:"
         hoverable
-        style={{ width: "30rem", height: "80vh" }}
+        style={{ width: "30rem", minHeight: "80vh" }}
       >
         <Row type="flex" align="middle" justify="center">
           <Col>

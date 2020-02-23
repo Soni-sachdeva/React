@@ -68,10 +68,10 @@ export const HomePage = props => {
                 <Card
                   title="Note:"
                   hoverable
-                  style={{ width: "30rem", height: "80vh" }}
+                  style={{ width: "30rem", minHeight: "80vh" }}
                 >
                   <p>
-                    You're time is limited dont don't waste it living someone
+                    You're time is limited don't waste it living someone
                     else's life.
                   </p>
                 </Card>
